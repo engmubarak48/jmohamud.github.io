@@ -36,12 +36,14 @@ li {
 	font-size: 90%;
 }
 ol, ul {
-	list-style: none;
+	list-style-type: circle;
     display: table-cell;
 	font-size: medium;
 	
 }
-
+ul ul {
+    list-style-type: square;
+}
 blockquote, q {
 	quotes: none;
 }
