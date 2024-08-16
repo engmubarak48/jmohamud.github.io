@@ -2,17 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: "PhD candidate: AI vs Climate Change @ <a href='#'>Mila</a> & <a href='#'>Université de Montréal</a><br/>Supervised by Prof. <a href='#'>Yoshua Bengio</a>"
+subtitle: "An AI researcher working at the intersection of AI, Neuroscience, and drug discovery."
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Mila - C2084</p>
+    <p>Mila - Montreal Institute for Learning Algorithms</p>
     <p>6666 rue Saint-Urbain</p>
     <p> Montréal, QC H2S 3H1, Canada</p>
-    <p>schmidtv 🌀 mila.quebec</p>
+    <p>hussein-mohamu.jama 🌀 mila.quebec</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -20,38 +20,29 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-### PhD
+### Bio
 
-💡 I am a final year PhD student interested mostly in applications of AI in the fight against climate change. This has led me to explore various areas, from computer vision and GANs to geometric graphs for materials modeling.
+Up until 2024, I was a nomadic AI researcher working at different institutions and companies, having traveled to over 20 countries, I have now settled in Montreal working at Mila Quebec AI institute. Before Mila, I was research Fellow at German Research Center for Artificial Intelligence (DFKI). Prior to DFKI, I was a Google DeepMind scholar working with the remarkable [Ulrich Paquet](https://www.linkedin.com/in/ulrich-paquet-72b6055a/?originalSubdomain=uk) and Willie Brink on understanding why deep learning works, particularly studying why pretraining models are so effective. And before this, I was working on privacy preserving self-supervised representation learning with [Moustapha Cisse](https://nexteinstein.org/person/moustapha-cisse/). 
 
-1️⃣ My first PhD project focused on creating **AI visualizations** of what your home could look like if climate-related extreme events (floods, wildfires or smog events) happened there. It's not about climate projections, it's about **empathy**: a climate in which every address in the world is experiencing floods, wildfires and smog at the same time does not exist. But the one we have is getting warmer, more dangerous, and everyone's actions have global consequences. This is why we published [ClimateGAN](https://arxiv.org/abs/2110.02871v1) (ICLR 2022) and deployed it on [This Climate Does Not Exist](https://thisclimatedoesnotexist.com).
+💡 I am currently a PhD candidate at the University of Montreal, supervised by [Mirco Ranavalli](https://mila.quebec/en/directory/mirco-ravanelli) and [Yoshua Bengio](https://mila.quebec/en/directory/yoshua-bengio). My research interests is mostly around in the intersection of AI and Neuroscience. I am interested to understand how the human brain functions by developing general-purpose models for the brain. I particularly work on deep representation learning, graph neural networks and language models and their applications to human brain, drug discovery, and healthcare. Additionally, I'm exploring foundational models, with a particular emphasis on fine-tuning large language models for downstream tasks like reasoning and code generation. 
 
-2️⃣ The second project I've worked on for almost 2 years now is about using **AI for materials discovery**. The long-term goal is to contribute to the discovery of more efficient electro-catalysts that would improve the energy efficiency of a wide range of chemical reactions. To that end, I have worked on **graph neural networks** for materials property prediction: [PhAST](https://arxiv.org/abs/2211.12020) (under review at JMLR) and [FAENet](https://arxiv.org/abs/2305.05577v1) (ICML 2023). I am now focusing on using this work within a **generative model** ([GFlowNet](https://milayb.notion.site/The-GFlowNet-Tutorial-95434ef0e2d94c24aab90e69b30be9b3)) to efficiently explore the huge space of potential electro-catalysts.
+💡 I am also the co-founder and CTO of Dukabooks, a stealth startup. We are developing intelligent AI-integrated software tools for micro, small, and medium enterprises (MSMEs) in East Africa. Our goal is to help over 50 million people in East Africa.
 
-3️⃣ Finally, I wanted to keep an eye on my own community and work towards **quantifying the carbon emissions of machine learning**. This lead to a [workshop paper](https://arxiv.org/abs/1910.09700) (Climate Change AI workshop, NeurIPS 2019) and its [online emissions calculator](https://mlco2.github.io/impact/), and a Python open-source library: [`codecarbon`](https://github.com/mlco2/codecarbon).
 
 ---
 
 ### Community work
 
-Beyond publishing, I try to be a good member of our community.
+Beyond my research, in my free time, I'm passionate about contributing to open-source projects and machine learning for societal good. Particularly, I would like to study the effects of weather like rising temperatures, floods, etc., on various geographical scales. If you have an exciting project or are seeking collaboration or have a geo-spatial problem, please don't hesitate to reach out. I'm always eager to learn and help. In the past, I have:
 
-* Student Lab Representative for 3 consecutive years at Mila
-* TA for 2 consecutive years for the UdeM [IFT 3710/6759 Advanced projects in Machine Learning](https://alexhernandezgarcia.github.io/teaching/mlprojects23/) course,
-* I contribute a module on AI & Climate Change to an upcoming MOOC by the Geography Department of Université de Montréal (with the amazing [Mélisande Teng](https://melisandeteng.github.io/)) and I like writing tutorials (from [as early as 2015](https://github.com/vict0rsch/deep_learning) or more recently an [introduction to Pytorch](https://github.com/vict0rsch/pytorch-tutorial)).
-
----
-
-### TL;DR Resume
-
-Prior to this PhD, I was a student at École polytechnique, France (Engineering degree - 2012→2016), and at University College London, UK (MSc. in Machine Learning - 2016→2017). I also worked for about a year as a [Public Interest Entrepreneur](https://eig.etalab.gouv.fr/) at the [French Ministry for the Econommy and Finance](https://eig.etalab.gouv.fr/defis/hopkins/) (2018).
-
----
-
-### Open source
-
-I also love creating open-source libraries. I tend to be the kind of persons who will spend a week or a month automating something that takes a couple hours, and then make an open-source project out ouf it. This is how I came to build [PaperMemory](https://github.com/vict0rsch/PaperMemory) a web-based automated reference manager, [`minydra`](https://github.com/vict0rsch/minydra) a minimalist Python argument parser, [`ntfy-wrapper`](https://github.com/vict0rsch/ntfy-wrapper) a simple notification wrapper around the ntfy.sh service, or [`gitmopy`](https://github.com/vict0rsch/gitmopy) an interactive CLI to make pretty commits following the [Gitmoji specification](https://gitmoji.dev/specification).
-
-In a previous life, I also created [metada.org](https://metada.org/), a website to visualize the hierarchies of ownership in the French media.
+* Served as a TA for two consecutive years at [Neuromatch Academy](https://neuromatch.io/neuroscience/) for the [Deep learning Summer School](https://deeplearning.neuromatch.io/tutorials/intro.html) 
+* Served as a TA at [African Institute for Mathemetical Science](https://nexteinstein.org/) to help next cohort AMMI students on foundational machine learning courses. 
+* Contributed to several open-source projects, including:
+  - [Gflownets Library](https://github.com/alexhernandezgarcia/gflownet) a machine learning framework for probabilistic and generative modelling
+  - [Graphium Library](https://github.com/datamol-io/graphium) for scaling molecular GNNs to infinity
+* Supported the Deep Learning Indaba (DLI), the largest AI conference in Africa, by contributing to the tutorials section for three consecutive years: 
+  - [DLI Graph Neural Networks practical 2022](https://github.com/deep-learning-indaba/indaba-pracs-2022/blob/main/practicals/GNN_practical.ipynb)
+  - [DLI Recommender Systems practical 2023](https://github.com/deep-learning-indaba/indaba-pracs-2023/blob/main/practicals/Recommender_Systems.ipynb)
+  - [DLI GNNs for Recommender Systems practical 2024](https://github.com/engmubarak48/indaba-pracs-2024/blob/recommender-systems/practicals/GNN_for_recommendations.ipynb)
 
 ---
