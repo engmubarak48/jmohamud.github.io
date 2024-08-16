@@ -8,7 +8,7 @@ middle_name: ""
 last_name: Mohamud
 email: hussein-mohamu.jama@mila.quebec
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I am AI Researcher who is interested in developing intelligent systems that can reason. 
+  I am AI Researcher working on developing intelligent systems that can reason. 
 footer_text: ""
 keywords: Deep learning, GNNs, Neuroscience, Foundational Models # add your own keywords or leave empty
 
@@ -68,14 +68,14 @@ og_image: https://vict0rs.ch/assets/img/prof_pic-800.webp # The site-wide (defau
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: vict0rsch # your GitHub user name
+github_username: engmubarak48 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: vict0rsch # your Twitter handle
+twitter_username: engmubarak49 # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: victor-schmidt-30418083 # your LinkedIn user name
+linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: mKLme1kAAAAJ # your Google Scholar ID
-semanticscholar_id: 97574153 # your Semantic Scholar ID
+scholar_userid: 6wf6wAAAAJ # your Google Scholar ID
+semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -91,7 +91,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 dblp_url: # your DBLP profile url
-stackoverflow_id: 3867406 # your stackoverflow id
+stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
 spotify_id: # your spotify id
@@ -103,7 +103,6 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  Happy to chat in general! Will be open for opportunities soon, looking for a start in Sept. 2024.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
