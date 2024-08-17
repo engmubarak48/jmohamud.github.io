@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Mila - Montreal Institute for Learning Algorithms</p>
+    <p><a href="https://mila.quebec/en">Mila - Montreal Institute for Learning Algorithms</a></p>
     <p>6666 rue Saint-Urbain</p>
     <p> Montréal, QC H2S 3H1, Canada</p>
     <p>hussein-mohamu.jama 🌀 mila.quebec</p>
