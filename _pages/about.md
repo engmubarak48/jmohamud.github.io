@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "An AI researcher working at the intersection of AI, Neuroscience, and drug discovery."
+subtitle: "A PhD candidate working at the intersection of AI, Neuroscience, and drug discovery."
 
 profile:
   align: right
@@ -29,7 +29,6 @@ Up until 2024, I was a nomadic AI researcher working at different institutions a
 Additionally, I'm exploring foundational models, with a particular emphasis on fine-tuning large language models for downstream tasks like reasoning and code generation. 
 
 💡 I am also the co-founder and CTO of Dukabooks, a stealth startup. We are developing intelligent AI-integrated software tools for micro, small, and medium enterprises (MSMEs) in East Africa. Our goal is to help over 50 million people in East Africa.
-
 
 ---
 
