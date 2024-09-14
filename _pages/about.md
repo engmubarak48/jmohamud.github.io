@@ -41,7 +41,7 @@ Beyond my research, in my free time, I'm passionate about contributing to open-s
 * Contributed to several open-source projects, including:
   - [Gflownets Library](https://github.com/alexhernandezgarcia/gflownet) a machine learning framework for probabilistic and generative modelling
   - [Graphium Library](https://github.com/datamol-io/graphium) for scaling molecular GNNs to infinity
-  - [Jraph - A library for graph neural networks in jax.](https://github.com/google-deepmind/jraph)
+  - [Jraph](https://github.com/google-deepmind/jraph) - A library for graph neural networks in jax.
 * Supported the Deep Learning Indaba (DLI), the largest AI conference in Africa, by contributing to the practicals for three consecutive years: 
   - [DLI Graph Neural Networks practical 2022](https://github.com/deep-learning-indaba/indaba-pracs-2022/blob/main/practicals/GNN_practical.ipynb)
   - [DLI Recommender Systems practical 2023](https://github.com/deep-learning-indaba/indaba-pracs-2023/blob/main/practicals/Recommender_Systems.ipynb)
