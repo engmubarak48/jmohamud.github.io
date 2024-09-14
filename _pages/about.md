@@ -44,6 +44,6 @@ Beyond my research, in my free time, I'm passionate about contributing to open-s
 * Supported the Deep Learning Indaba (DLI), the largest AI conference in Africa, by contributing to the practicals for three consecutive years: 
   - [DLI Graph Neural Networks practical 2022](https://github.com/deep-learning-indaba/indaba-pracs-2022/blob/main/practicals/GNN_practical.ipynb)
   - [DLI Recommender Systems practical 2023](https://github.com/deep-learning-indaba/indaba-pracs-2023/blob/main/practicals/Recommender_Systems.ipynb)
-  - [DLI GNNs for Recommender Systems practical 2024](https://github.com/engmubarak48/indaba-pracs-2024/blob/recommender-systems/practicals/GNN_for_recommendations.ipynb)
+  - [DLI GNNs for Recommender Systems practical 2024](https://github.com/deep-learning-indaba/indaba-pracs-2024/tree/main/practicals/Recommender_Systems)
 
 ---
